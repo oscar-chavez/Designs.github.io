@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Ledgewood';
+   font-display: swap;
+   src: url('Ledgewood/font.ttf');
+}
+@font-face {
+   font-family: 'allura.regular';
+   font-display: swap;
+   src: url('allura.regular/font.ttf');
+}
